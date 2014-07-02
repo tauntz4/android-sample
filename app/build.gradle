@@ -2,10 +2,10 @@ apply plugin: 'android'
 
 android {
     compileSdkVersion 19
-    buildToolsVersion "20.0.0"
+    buildToolsVersion "18.0.0"
 
     defaultConfig {
-        applicationId "android.greenhouseci.com.androiddemo"
+        packageName "android.greenhouseci.com.androiddemo"
         minSdkVersion 15
         targetSdkVersion 19
         versionCode 1
