@@ -2,7 +2,7 @@ apply plugin: 'android'
 
 android {
     compileSdkVersion 19
-    buildToolsVersion "19.1.0"
+    buildToolsVersion "20.0.0"
 
     defaultConfig {
         applicationId "android.greenhouseci.com.androiddemo"
@@ -11,6 +11,8 @@ android {
         versionCode 1
         versionName "1.0"
     }
+
+
     buildTypes {
         release {
             runProguard false
