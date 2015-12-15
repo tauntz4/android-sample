@@ -1,4 +1,4 @@
 android-sample
 ==============
 
-A sample app for Android
+A sample app for Android.
